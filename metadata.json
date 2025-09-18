@@ -1,0 +1,5 @@
+{
+  "name": "DevErrorLog - The Intelligent Error Resolver",
+  "description": "A web application that acts as a centralized, intelligent dashboard for your development errors. Paste your error log, and get a detailed explanation and solution powered by AI.",
+  "requestFramePermissions": []
+}
